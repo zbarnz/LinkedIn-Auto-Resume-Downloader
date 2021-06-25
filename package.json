@@ -4,7 +4,7 @@
     "jszip": "^3.6.0",
     "puppeteer": "^9.0.0"
   },
-  "name": "autoResumeDownloader",
+  "name": "auto_resume_downloader",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
